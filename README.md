@@ -42,8 +42,8 @@ Predicts customer churn to help improve retention strategies.
 
 ## 📧 Contact Me
 
-- Email: reddysandeep1329@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/venkatasandeep/  
+- Email: [reddysandeep1329@gmail.com](mailto:reddysandeep1329@gmail.com)  
+- LinkedIn: [linkedin.com/in/venkatasandeep](https://www.linkedin.com/in/venkatasandeep/)  
 - Portfolio: *coming soon*
 
 ---
